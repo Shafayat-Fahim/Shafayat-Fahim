@@ -18,6 +18,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafayat-fahim&show_icons=true&locale=en&layout=compact" alt="shafayat-fahim" /></p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=shafayat-fahim&theme=whatsapp-light&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-</p>
+<p align="center"><a><img src="https://git-hub-streak-stats.vercel.app?user=shafayat-fahim&theme=whatsapp-light&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a></p>
