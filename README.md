@@ -1,7 +1,7 @@
 ![HeaderPhoto](https://github.com/user-attachments/assets/d9b44db0-4207-4c9a-b086-2a75bb14cd14)
 
 <h1 align="center">Hi🥷🏻, I'm Shafayat Fahim</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=10&color=28B82E&background=D7FFF000&center=true&vCenter=true&width=105&lines=Code%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Compile%F0%9F%99%87%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F;Conquer%F0%9F%92%AA%F0%9F%8F%BB" alt="Typing SVG" /></a></h3>
+<h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=10&color=28B82E&background=D7FFF000&center=true&vCenter=true&width=105&lines=Code%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Compile%F0%9F%99%87%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F;Conquer%F0%9F%92%AA%F0%9F%8F%BB" alt="Typing SVG" /></h3>
 
 <p align="center">🌱 I’m currently learning <b><i>Artificial Intelligence</i></b></p>
 
@@ -18,4 +18,4 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafayat-fahim&layout=compact" alt="Top Languages"></p>
 
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=shafayat-fahim&theme=whatsapp-light&border_radius=7&date_format=j%20M%5B%20Y%5D&card_width=490&fire=EB5959" alt="GitHub Streak" /></a></p>
+<p align="center"><img src="https://git-hub-streak-stats.vercel.app?user=shafayat-fahim&theme=whatsapp-light&border_radius=7&date_format=j%20M%5B%20Y%5D&card_width=490&fire=EB5959" alt="GitHub Streak" /></p>
