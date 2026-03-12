@@ -21,5 +21,3 @@
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafayat-Fahim&layout=compact" alt="Top Languages"></p>
-
-<p align="center"><img src="https://git-hub-streak-stats.vercel.app?user=Shafayat-Fahim&theme=whatsapp-light&border_radius=7&date_format=j%20M%5B%20Y%5D&card_width=490&fire=EB5959" alt="GitHub Streak" /></p>
